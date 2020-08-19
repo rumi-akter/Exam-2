@@ -1,0 +1,94 @@
+.top{
+    border-bottom: 1px solid #ddd;
+}
+.div span{
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+}
+.div ul,
+.icon ul{
+    list-style: none;
+padding: 0;
+margin: 0;
+line-height: 2;
+}
+.div ul li{
+padding: 5px 10px;
+}
+.div ul li a{
+    background: #111;
+    padding: 5px 10px;
+    color: #fff;
+}
+.icon ul li a{
+    color: #111;
+    padding: 5px 10px;
+
+}
+.icon ul li {
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+}
+.navbar{
+    background: #fff;
+}
+.navbar-brand .nav1{
+    color: #111;
+    font-weight: bold;
+}
+.navbar-brand .nav2{
+    color: rgb(168, 24, 24);
+    font-weight: bold;
+}
+.slide h2{
+    background: #111;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: #fff;
+}
+.slide ul{
+    list-style: none;
+}
+.slide ul li{
+    font-size: 18px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+}
+.main-section .navbar{
+    background: #111;
+  
+}
+.main-section .nav-link{
+   
+    color: #fff;
+    text-transform: uppercase;
+font-size: 18px;
+line-height: 2;
+}
+.main-section .nav-link:hover{
+    background: rgb(168, 24, 24);
+}
+.main-section .right{
+    border-left: 2px solid #fff;
+}
+.main-section .right p{
+    text-transform: capitalize;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+}
+.carousel-item {
+    height: 450px; }
+  
+  .carousel-img-1 {
+    background: url("../img/1.jpg");
+    background-size: cover; }
+  
+  .carousel-img-2 {
+    background: url("../img/2.jpg");
+    background-size: cover; }
+  
+  .carousel-img-3 {
+    background: url("../img/3.jpg");
+    background-size: cover; }
+  
